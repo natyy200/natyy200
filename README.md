@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🩹🖤
 
-Meu nome é Nataly, mas podem me chamar de Naty
+Meu nome é **Nataly**
 
 - Estou estudando na [ALURA](https://www.alura.com.br)
 - Estou me desenvolvendo na Linguagem de JavaScript
