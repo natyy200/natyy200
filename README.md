@@ -12,4 +12,4 @@ gmail - natalydearo2008@gmail.com
 
 Linkedin - https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/
 
-![](https://media.tenor.com/ZIIlg1sclRsAAAAC/the-rock-meme-jonathan-joestar.gif)
+![](https://media.tenor.com/i1tN3J_smWUAAAAi/aesthetic.gif)
