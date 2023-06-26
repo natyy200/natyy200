@@ -10,6 +10,6 @@ Meu nome é **Nataly Dearo Schmidt** ;
 
 ### Você pode entrar em contato comigo   
 
-gmail - natalydearo2008@gmail.com
+gmail - nataly.schmidt@escola.pr.gov.br
 
 Linkedin - https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/
