@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🩹🖤
 
-<!--
-**natyy200/natyy200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nataly, mas podem me chamar de Naty
 
-Here are some ideas to get you started:
+- Estou estudando na [ALURA](https://www.alura.com.br)
+- Estou me desenvolvendo na Linguagem de JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+gmail - natalydearo2008@gmail.com
+
+Linkedin - https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/
+
+![](https://media.tenor.com/ZIIlg1sclRsAAAAC/the-rock-meme-jonathan-joestar.gif)
