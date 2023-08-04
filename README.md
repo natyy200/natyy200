@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🩹🎧
 
-Meu nome é **Nataly Dearo Schmidt** ;
+Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 - Estou estudando na [ALURA](https://www.alura.com.br)
 - Estou me desenvolvendo na Linguagem de JavaScript
