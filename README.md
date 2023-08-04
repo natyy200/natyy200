@@ -13,3 +13,5 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 gmail - nataly.schmidt@escola.pr.gov.br
 
 Linkedin - https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/
+
+Dicord - kkjnaty_#6083
