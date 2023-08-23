@@ -3,7 +3,7 @@
 Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 - Estou estudando na [ALURA](https://www.alura.com.br)
-- Estou me desenvolvendo na Linguagem de JavaScript
+- Estou me desenvolvendo nas Linguagens de JavaScript, Html e CSS
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ![](https://media.tenor.com/i1tN3J_smWUAAAAi/aesthetic.gif)
