@@ -15,3 +15,7 @@ gmail - nataly.schmidt@escola.pr.gov.br
 Linkedin - https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/
 
 Discord - kkjnaty_#6083
+
+Instagram - https://www.instagram.com/nataly.dearo/
+
+Twitter - @KkjNaty_
