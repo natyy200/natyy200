@@ -8,7 +8,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ![](https://media.tenor.com/i1tN3J_smWUAAAAi/aesthetic.gif)
 
-![}(https://i.pinimg.com/originals/63/b8/08/63b808ba0404bb8f7176aea2ae21e225.gif)
+![](https://i.pinimg.com/originals/63/b8/08/63b808ba0404bb8f7176aea2ae21e225.gif)
 
 ## Você pode entrar em contato comigo :   
 
