@@ -8,8 +8,6 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ![](https://media.tenor.com/i1tN3J_smWUAAAAi/aesthetic.gif)
 
-![](https://i.pinimg.com/originals/e3/21/5b/e3215b181afdab803bf9ab05bdb0b0b0.gif)
-
 ## Você pode entrar em contato comigo :   
 
 gmail - nataly.schmidt@escola.pr.gov.br
