@@ -8,12 +8,12 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ![](https://media.tenor.com/tmC4P9hHGwEAAAAi/jojo-menacing.gif)
 
-## Github Status
+## ➵ Github Status
 ![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
 ![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
-## Entre em contato comigo ➵ 
+## ➵ Entre em contato comigo
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nataly.schmidt@escola.pr.gov.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/)
