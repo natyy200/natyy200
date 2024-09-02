@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 🌾
+## Boas vindas ao meu perfil 🦇
 
 Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
