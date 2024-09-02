@@ -11,7 +11,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 ## ➵ Áreas de interesse
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 
 ## ➵ Github Status
