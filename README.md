@@ -6,7 +6,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 - Estou me desenvolvendo nas Linguagens de JavaScript, HTML5 e CSS3 ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media.tenor.com/i1tN3J_smWUAAAAi/aesthetic.gif)
+![](https://media.tenor.com/Eo809pAALoYAAAAi/bat.gif)
 
 ## ➵ Github Status
 ![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
