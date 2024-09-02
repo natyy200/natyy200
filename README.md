@@ -8,7 +8,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ![](https://media.tenor.com/Eo809pAALoYAAAAi/bat.gif)
 
-## Áreas de interesse
+## ➵ Áreas de interesse
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
