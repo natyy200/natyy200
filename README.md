@@ -10,7 +10,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ## Você pode entrar em contato comigo :   
 
-gmail - nataly.schmidt@escola.pr.gov.br
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nataly.schmidt@escola.pr.gov.br)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/)
 
