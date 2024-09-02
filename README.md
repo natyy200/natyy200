@@ -8,7 +8,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ![](https://media.tenor.com/tmC4P9hHGwEAAAAi/jojo-menacing.gif)
 
-## Github Stats
+## Github Status
 ![Natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 ## Você pode entrar em contato comigo :   
