@@ -21,6 +21,6 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ;
 
 ## ➵ Entre em contato comigo
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nataly.schmidt@escola.pr.gov.br)
+<a href="mailto:nataly.schmidt@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataly-dearo-schmidt-087a04252/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nataly.dearo/)
