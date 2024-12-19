@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🦇
 
-Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty ou Nay;
+Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty;
 
 ⋆ Estou estudando atualmente na [ALURA](https://www.alura.com.br)
 
