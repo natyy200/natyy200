@@ -8,7 +8,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media1.tenor.com/m/LyCRjBHOQRkAAAAd/walking-walk.gif)
+![](https://media.tenor.com/JkOkFFTeqHgAAAAj/video-games-thinking.gif)
 
 ## ⇢ Áreas de interesse
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
