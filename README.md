@@ -10,7 +10,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty
 
 ![](https://media.tenor.com/Ba3iZ1qUbnkAAAAj/pixel-foot-stomping.gif)
 
-## ⇢ Áreas de interesse
+## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
