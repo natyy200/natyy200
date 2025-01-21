@@ -19,7 +19,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Git-%23000?style=for-the-badge&logo=git&logoColor=#E84D31&logoSize=auto)
 ![](https://img.shields.io/badge/Github-%23000?style=for-the-badge&logo=github&logoColor=%23fff&logoSize=auto)
-![](https://img.shields.io/badge/bootStrap-%23000?style=for-the-badge&logo=bootstrap&logoColor=%237B11F3&logoSize=auto)
+![](https://img.shields.io/badge/bootStrap-%23000?style=for-the-badge&logo=bootstrap&logoColor=%61DAFB&logoSize=auto)
 
 
 ## ⇢ Github Status
