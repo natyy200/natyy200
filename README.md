@@ -17,6 +17,7 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Git-%23000?style=for-the-badge&logo=git&logoColor=#E84D31&logoSize=auto)
 
 ## ⇢ Github Status
 ![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
