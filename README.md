@@ -21,7 +21,6 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty
 ![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=#E84D31&logoSize=auto)
-![](https://img.shields.io/badge/bootStrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=%237B11F3&logoSize=auto)
 
 
 ## ⇢ Github Status
