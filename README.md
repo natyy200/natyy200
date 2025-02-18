@@ -11,8 +11,8 @@ Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty
 ![](https://media.tenor.com/Ba3iZ1qUbnkAAAAj/pixel-foot-stomping.gif)
 
 ## ⇢ Linguagens e Tecnologias
-![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
+![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
