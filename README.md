@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7F7F7&width=800&lines=🦇+Olá!+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
+---
+
 #### Meu nome é **Nataly Dearo Schmidt** mas pode me chamar apenas de Naty!
 
 ⋆ Estou estudando atualmente na [ALURA](https://www.alura.com.br) desde 2021
