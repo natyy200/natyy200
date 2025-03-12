@@ -14,7 +14,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media.tenor.com/Ba3iZ1qUbnkAAAAj/pixel-foot-stomping.gif)
+![](https://media.tenor.com/T2s6JZfPhxEAAAAj/sanrio.gif)
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
