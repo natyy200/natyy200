@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media.tenor.com/vxutrLzXdgMAAAAj/octopus-craft-purple-crafttopus-callsock-craftwarfan.gif)
+![](https://media.tenor.com/hqZkDT3_BCsAAAAj/purple-dragon-fire.gif)
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
