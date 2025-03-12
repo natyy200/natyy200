@@ -1,7 +1,7 @@
 ---
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=68a03b&width=800&lines=Olá!+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=496d7d&width=800&lines=Olá!+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ---
