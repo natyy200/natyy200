@@ -33,7 +33,6 @@
 ![scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=#E84D31&logoSize=auto)
-![Excel](https://img.shields.io/badge/excel-01723a?style=for-the-badge&logo=x&logoColor=#E84D31&logoSize=auto)
 
 
 ## ⇢ Github Status
