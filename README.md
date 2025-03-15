@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=d2ecf9&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
----
-
 ⋆ Estou estudando atualmente na [ALURA](https://www.alura.com.br) desde 2021
 
 ⋆ Estou me desenvolvendo nas Linguagens de JavaScript, HTML5 e CSS3 ✒️
