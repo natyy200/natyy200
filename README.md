@@ -1,7 +1,7 @@
 ---
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=ba9564&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=69bfd7&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ---
