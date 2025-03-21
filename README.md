@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9854&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd544e&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=ff9854&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=bd544e&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media.tenor.com/4MJjiKZU4gIAAAAj/kirby-kirby-line-sticker.gif)
+![](https://media.tenor.com/Vl-4HkJxQecAAAAj/vortex-ex.gif)
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,4 +40,4 @@
 
 ![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff9854&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd544e&height=90&section=footer"/>
