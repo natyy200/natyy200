@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media.tenor.com/kE1QMRQ_RvcAAAAj/smushi-smushi-come-home.gif)
+![](https://media.tenor.com/zc27HeNA4jgAAAAj/mushroom-dance.gif)
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
