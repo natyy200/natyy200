@@ -36,8 +36,8 @@
 
 
 ## ⇢ Github Status
-![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&count_private=true&title_color=bd544e&text_color=c9d1d9&bg_color=351f1e)
 
-![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&&title_color=bd544e&text_color=c9d1d9&bg_color=351f1e)
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd544e&height=90&section=footer"/>
