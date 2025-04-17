@@ -37,6 +37,7 @@
 <br>
 ![scratch](https://img.shields.io/badge/scratch-F7931E?style=for-the-badge&logo=scratch&logoColor=white)
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![Arduino](https://img.shields.io/badge/arduino.cc-008284?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=#E84D31&logoSize=auto)
 
 
