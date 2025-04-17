@@ -8,7 +8,7 @@
 
 ⋆ Estou estudando atualmente na [ALURA](https://www.alura.com.br) desde 2021
 
-⋆ Estou me desenvolvendo nas Linguagens de JavaScript, HTML5 e CSS3 ✒️
+⋆ Estou me desenvolvendo nas Linguagens de Java, Python e SQL ✒️
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
