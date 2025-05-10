@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=20% src="https://media.tenor.com/tj0ck8OY7sYAAAAj/stars-shine.gif" />
+<img width=15% src="https://media.tenor.com/tj0ck8OY7sYAAAAj/stars-shine.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
