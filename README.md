@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=10% src="https://media.tenor.com/QrTv5JhdH1cAAAAj/chicken-stardew-valley.gif" />
+<img width=15% src="https://media0.giphy.com/media/zO8NqtCd2J2OWiiJ7M/giphy.gif?cid=6c09b9522xfje5s4nlic2nnuir88xp6m33qd76gszyi63ett&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
