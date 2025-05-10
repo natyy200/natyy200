@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=20% src="https://static.wikia.nocookie.net/dank_memer/images/0/0e/Pizza_Slice.gif/revision/latest/thumbnail/width/360/height/360?cb=20220409143616" />
+<img width=20% src="https://media.tenor.com/tj0ck8OY7sYAAAAj/stars-shine.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
