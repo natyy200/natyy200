@@ -50,4 +50,4 @@
 
 ![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&&title_color=ffffff&text_color=c9d1d9&bg_color=151515)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=86827f&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ebba66&height=90&section=footer"/>
