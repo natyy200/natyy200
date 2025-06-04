@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58799c&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a88ab9&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=58799c&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=a88ab9&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ---
@@ -50,4 +50,4 @@
 
 ![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&&title_color=ffffff&text_color=c9d1d9&bg_color=151515)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58799c&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a88ab9&height=90&section=footer"/>
