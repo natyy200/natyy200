@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=20% src="https://i.pinimg.com/originals/e7/35/d4/e735d4e3514346ecf990e44496cdd328.gif" />
+<img width=15% src="https://i.pinimg.com/originals/e7/35/d4/e735d4e3514346ecf990e44496cdd328.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
