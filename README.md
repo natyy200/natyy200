@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=10% src="https://media.tenor.com/SYtC6aKXl-AAAAAj/bloh-video-game.gif" />
+<img width=20% src="https://i.pinimg.com/originals/0e/1b/5e/0e1b5e979d506b4c76b5d36d4d604fc0.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
