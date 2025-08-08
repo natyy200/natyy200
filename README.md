@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=25% src="https://i.pinimg.com/originals/d3/ee/9a/d3ee9a6925c2af2b414d0bbf228fddd2.gif" />
+<img width=25% src="https://deathcloak.com/images/chains.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
