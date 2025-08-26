@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=20% src="https://media.tenor.com/QyNd6p4AyVwAAAAi/emu-otori-otori-emu.gif" />
+<img width=20% src="https://i.pinimg.com/originals/26/db/92/26db9218666f87f4acf13f73afb2f698.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
