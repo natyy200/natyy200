@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c5051&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=213742&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=7c5051&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=213742&width=800&lines=Olá,+meu+nome+é+Nataly.;+Eu+sou+uma+desenvolvedora+front-end!;+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ⋆ Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=25% src="https://i.pinimg.com/originals/98/1f/7f/981f7f4bb675fc5154ae713539e6ac0d.gif" />
+<img width=25% src="https://i.pinimg.com/originals/63/bd/71/63bd71fc80e0929fd045ab130472fe2e.gif" />
 
 ## ⇢ Linguagens e Tecnologias
 ![Html](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,4 +50,4 @@
 
 ![natyy200 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natyy200&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&&title_color=ffffff&text_color=c9d1d9&bg_color=151515)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c5051&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=213742&height=90&section=footer"/>
